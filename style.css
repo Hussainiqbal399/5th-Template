@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#sec1{
+    background-image: url(./wave.webp);
+    height: 100vh;
+}
+.div1{
+    display: flex;
+    color: white;
+}
+.ss{
+    margin-left: 160px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.x2{
+    margin: 3% 7%;
+    list-style: none;
+}
+.x2 li{
+    margin: 0% 15%;
+}
+.x2 li:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.x3{
+    margin-left: 35%;
+}
+.x3 button{
+    margin-top: 23%;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    background-color: transparent;
+
+}
+.x3 button:hover{
+background-color: blue;
+color:white;
+padding: 8px 15px;
+border-radius: 5px;
+cursor: pointer;
+}
+.div2{
+    text-align: center;
+    margin-top: 6%;
+    color: white;
+}
+.div2 h1{
+    font-size: 50px;
+}
+.div2 p{
+    font-size: 17px;
+}
+.div2 button{
+    width: 10%;
+    height: 30px;
+    border-radius:5px ;
+    border: none;
+    background-color:darkblue;
+    color: white;
+}
+.div2 button:hover{
+    background-color: blue;
+    color: white;
+}
+#sec2{
+    background-color:#051934;
+    height: 100vh;
+}
+.div3{
+    text-align: center;
+    color: white;
+    margin-top: -3%;
+    padding-top: 4%;
+}
+.div3 h1{
+    font-size: 50px;
+}
+.div3 p{
+    font-size: 17px;
+}
+.ok1{
+    color: white;
+}
+.ok1 img{
+    height: 70px;
+    width: 70px;
+    border-radius: 5px;
+}
+.main{
+    display: flex;
+    margin: 6% 9%;
+    width: 100%;
+}
+.main div{
+    margin: 2%;
+}
